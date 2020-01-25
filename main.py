@@ -29,8 +29,8 @@ app = Flask(__name__)
 
 cwd = "/home/turnips343/server"
 
-account_sid = 'ACe060c1c4da2bec3b9a641416e8b018ac'
-auth_token = 'f4bea2596471370d71c1544c1b6351f6'
+account_sid = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+auth_token = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 client = Client(account_sid, auth_token)
 
 def is_url(string): 
