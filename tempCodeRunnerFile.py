@@ -1,1 +1,1 @@
-media_url=['https://img.bleacherreport.net/img/images/photos/003/847/397/hi-res-8217ec59592e20349f00038b883e82a5_crop_exact.jpg?w=1200&h=1200&q=75 '],
+from twilio.rest import Client
